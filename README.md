@@ -23,6 +23,10 @@ Aplicação de envio SMS e Whatsapp utilizando a LIB Twilio
 
 Nesse projeto eu optei por receber o numero do telefone através de um parametro Path, assim não há a necessidade de deixar o número fixo no código.
 - Foi necessário apenas a criação de uma classe para envio do sms.
+
+- Nessa classe eu optei por receber os valores de credenciais através de variaveis utilizando as anotações @Value : @Value("${Twilio.account_sid}")
+- Criado um chamada http do tipo Post: @PostMapping("/sms/{number}")
+- Necessário inicializar o método init dentro da lib Twilio:  Twilio.init(account_sid, auth);
   
 ![image](https://github.com/user-attachments/assets/9086f20e-1475-4b03-b0de-5c18522859fc)
 
