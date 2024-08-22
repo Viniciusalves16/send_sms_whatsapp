@@ -18,6 +18,7 @@ Aplicação de envio SMS e Whatsapp utilizando a LIB Twilio
 
   
 - Forma mais segura de configurar são através das variaveis de ambiente.
+  
 ![image](https://github.com/user-attachments/assets/b1192915-70ca-4991-9bc6-5e9f751f9999)
 
 Nesse projeto eu optei por receber o numero do telefone através de um parametro Path, assim não há a necessidade de deixar o número fixo no código.
