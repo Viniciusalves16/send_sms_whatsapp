@@ -1,4 +1,4 @@
-package com.example.sms.controller;
+package com.example.sms;
 
 import com.twilio.Twilio;
 import com.twilio.exception.ApiException;
