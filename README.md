@@ -40,3 +40,12 @@ Nesse projeto eu optei por receber o numero do telefone através de um parametro
 ![image](https://github.com/user-attachments/assets/604d048d-b611-4195-aeb7-6d1831a736cd)
 
 
+
+2 - ENVIO DE NOTIFICAÇÕES WHATSAPP
+
+- Criação de uma classe Properties configurando suas credenciais.
+
+  ![image](https://github.com/user-attachments/assets/898fa844-d66d-46b8-aec4-61e02fd3cadd)
+
+
+
