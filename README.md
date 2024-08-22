@@ -33,7 +33,7 @@ Nesse projeto eu optei por receber o numero do telefone através de um parametro
      - Mensagem personalizada
 ![image](https://github.com/user-attachments/assets/9086f20e-1475-4b03-b0de-5c18522859fc)
 
-SMS Recebido
+- SMS Recebido
 
 ![image](https://github.com/user-attachments/assets/604d048d-b611-4195-aeb7-6d1831a736cd)
 
