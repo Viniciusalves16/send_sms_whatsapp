@@ -51,6 +51,12 @@ Nesse projeto eu optei por receber o numero do telefone através de um parametro
 
   ![image](https://github.com/user-attachments/assets/f0b113df-41cf-4de9-a53f-1b701d78ebdd)
 
+- Seguindo a mesma dinamica do disparo de sms, foi criado uma controller para disparo da notificação, onde após receber esse estimulo, temos um try catch que aciona o método: this.sendWhatsappMessageNotification.dispatchNewArticleNotification();
+
+![image](https://github.com/user-attachments/assets/acef14fc-fcca-4135-8cd0-4d1ecf7fc052)
+
+
+
 
 
 
