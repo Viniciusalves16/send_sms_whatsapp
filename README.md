@@ -60,7 +60,8 @@ Nesse projeto eu optei por receber o numero do telefone através de um parametro
 - Além da configuração de disparo da mensagem através do objeto Message e do método creator.
 - Após preencher todos os parametros necessários é necessário colocar o .create() para que o disparo seja criado.
 
-![image](https://github.com/user-attachments/assets/908d3ae8-c8a6-4d77-bb90-04714592f555)
+![image](https://github.com/user-attachments/assets/2d338828-df67-4e62-8a98-ac1a625eb4d3)
+
 
 
   
