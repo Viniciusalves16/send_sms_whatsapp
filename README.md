@@ -47,7 +47,7 @@ Nesse projeto eu optei por receber o numero do telefone através de um parametro
 
   ![image](https://github.com/user-attachments/assets/898fa844-d66d-46b8-aec4-61e02fd3cadd)
 
-- Nessa classe você realiza a configuração e implementa uma interface do tipo ApplicationRunner que inicializa automaticamente.
+- Necessário a criação de uma classe TwilioInitializer, onde você realiza a configuração e implementa uma interface do tipo ApplicationRunner que inicializa automaticamente.
 
   ![image](https://github.com/user-attachments/assets/f0b113df-41cf-4de9-a53f-1b701d78ebdd)
 
