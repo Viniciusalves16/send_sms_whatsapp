@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Send_SMS_Twilio.iml" filepath="$PROJECT_DIR$/.idea/Send_SMS_Twilio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/send_sms/send_sms.iml" filepath="$PROJECT_DIR$/send_sms/send_sms.iml" />
     </modules>
   </component>
 </project>
