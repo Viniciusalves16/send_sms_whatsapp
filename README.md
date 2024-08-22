@@ -27,7 +27,12 @@ Nesse projeto eu optei por receber o numero do telefone através de um parametro
 - Nessa classe eu optei por receber os valores de credenciais através de variaveis utilizando as anotações @Value : @Value("${Twilio.account_sid}")
 - Criado um chamada http do tipo Post: @PostMapping("/sms/{number}")
 - Necessário inicializar o método init dentro da lib Twilio:  Twilio.init(account_sid, auth);
-  
+- Por se tratar de uma requisição sendo feita a outra API, utilizei um try catch para tratarmos exceptions que possam ser retornadas.
+- Inicializamos um Objeto Message, acionando o método creator e passamos os dados de parametros que são necessários.
+     - Telefone
+     - Mensagem personalizada
 ![image](https://github.com/user-attachments/assets/9086f20e-1475-4b03-b0de-5c18522859fc)
 
+SMS Recebido
+![image](https://github.com/user-attachments/assets/ee862552-3ffb-498e-b9de-44cf792c0d81)
 
