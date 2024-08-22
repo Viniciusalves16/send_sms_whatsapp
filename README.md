@@ -59,8 +59,14 @@ Nesse projeto eu optei por receber o numero do telefone através de um parametro
 - Foi criado uma classe com a anotação @Service, onde esta configurado a inicialização do Método Twilio.init.
 - Além da configuração de disparo da mensagem através do objeto Message e do método creator.
 - Após preencher todos os parametros necessários é necessário colocar o .create() para que o disparo seja criado.
+- Necessário resgatar o seu phoneNumber que é criado na plataforma Twilio, pois o parametro pede tanto o seu telefone, como também o criado por eles durante seu cadastro.
 
 ![image](https://github.com/user-attachments/assets/c335f355-eafb-4ea7-a783-e2dd8999b0fc)
+
+- Notificação enviada!
+
+  ![image](https://github.com/user-attachments/assets/652d75f6-c708-450f-9e33-d025f6243b79)
+
 
 
 
