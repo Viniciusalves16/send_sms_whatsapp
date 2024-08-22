@@ -10,5 +10,6 @@ Aplicação de envio SMS e Whatsapp utilizando a LIB Twilio
 - Primeiro passo é a criação de uma conta na plataforma Twilio:
 - Após a criação da conta, será criado automaticamente algumas credencias que você vai ter que configurar em sua aplicação para disparo das mensagens.
 
-![1](https://github.com/user-attachments/assets/5a8ab220-379d-4001-83d3-5856d1f8e40d)
+![1](https://github.com/user-attachments/assets/83928516-d351-4f10-b8ec-0a3ddc3399d3)
+
 
