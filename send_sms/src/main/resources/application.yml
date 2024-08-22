@@ -1,0 +1,6 @@
+com:
+  whatsapp:
+    twilio:
+      account-sid: ${TWILIO_ACCOUNT_SID}
+      auth-token: ${TWILIO_AUTH_TOKEN}
+      phoneNumber: ${TWILIO_PHONE_NUMBER}
