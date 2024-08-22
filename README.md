@@ -14,7 +14,7 @@ Aplicação de envio SMS e Whatsapp utilizando a LIB Twilio
 
 - Adicionar dependencia no pom da sua aplicação.
   
- ![image](https://github.com/user-attachments/assets/b7df48ba-a0ad-4077-8331-2dce0cb233eb)
+![image](https://github.com/user-attachments/assets/b7df48ba-a0ad-4077-8331-2dce0cb233eb)
 
   
 - Forma mais segura de configurar são através das variaveis de ambiente.
@@ -22,7 +22,7 @@ Aplicação de envio SMS e Whatsapp utilizando a LIB Twilio
 
 Nesse projeto eu optei por receber o numero do telefone através de um parametro Path, assim não há a necessidade de deixar o número fixo no código.
 - Foi necessário apenas a criação de uma classe para envio do sms.
-- 
+  
 ![image](https://github.com/user-attachments/assets/9086f20e-1475-4b03-b0de-5c18522859fc)
 
 
