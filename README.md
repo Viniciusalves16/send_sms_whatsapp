@@ -12,11 +12,11 @@ Aplicação de envio SMS e Whatsapp utilizando a LIB Twilio
 
 - ![1](https://github.com/user-attachments/assets/83928516-d351-4f10-b8ec-0a3ddc3399d3)
 
-- Adicionar dependencia no pom da sua aplicação:
+- Adicionar dependencia no pom da sua aplicação.
 - ![image](https://github.com/user-attachments/assets/b7df48ba-a0ad-4077-8331-2dce0cb233eb)
 
   
-- Forma mais segura de configurar são através das variaveis de ambiente: 
+- Forma mais segura de configurar são através das variaveis de ambiente.
 ![image](https://github.com/user-attachments/assets/b1192915-70ca-4991-9bc6-5e9f751f9999)
 
 Nesse projeto eu optei por receber o numero do telefone através de um parametro Path, assim não há a necessidade de deixar o número fixo no código.
