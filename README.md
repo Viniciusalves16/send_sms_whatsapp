@@ -56,7 +56,13 @@ Nesse projeto eu optei por receber o numero do telefone através de um parametro
  ![image](https://github.com/user-attachments/assets/acef14fc-fcca-4135-8cd0-4d1ecf7fc052)
 
 
+- Foi criado uma classe com a anotação @Service, onde esta configurado a inicialização do Método Twilio.init.
+- Além da configuração de disparo da mensagem através do objeto Message e do método creator.
+- Após preencher todos os parametros necessários é necessário colocar o .create() para que o disparo seja criado.
 
+![image](https://github.com/user-attachments/assets/53a27d9a-69f9-4cf6-bf2d-22f5a8e75308)
+
+  
 
 
 
